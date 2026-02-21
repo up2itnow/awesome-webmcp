@@ -26,6 +26,7 @@
 
 ---
 
+- [webmcp-sdk](https://github.com/up2itnow/webmcp-sdk) ([npm](https://www.npmjs.com/package/webmcp-sdk)) - Full TypeScript developer toolkit for making websites agent-ready via WebMCP. Includes core, React, security, and testing packages.
 ## Official Tooling
 
 - [GoogleChromeLabs/webmcp-tools](https://github.com/GoogleChromeLabs/webmcp-tools) - Official Chrome Labs toolkit with Model Context Tool Inspector extension, WebMCP Evals CLI, React [flight-search demo](https://flight-search.firebaseapp.com) ([imperative](https://webmachinelearning.github.io/webmcp)), and restaurant reservation demo ([declarative](https://github.com/webmachinelearning/webmcp/pull/76)).
